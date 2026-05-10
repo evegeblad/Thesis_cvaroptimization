@@ -6,11 +6,13 @@ The following scripts contain the extensive model and the CVaR optimization Algo
   - pp_CB_alg1.py
   - pp_extensive.py
 
+Note that both Algorithm 1 and the extenisve model formulation has been tested in a for loop, and one need to decide to loop over different seeds or different instance sizes. 
+
 ### Plots
-  - runtimelog1.py
-  - runtimelog10.py
-  - scatter_test10.py
-  - scatter_test100.py
+  - runtimelog1.py #(log scale runtime plot for seed 1 results)
+  - runtimelog10.py (log scale runtime plot for seed 10 results)
+  - scatter_test10.py (scatterplot of runtime for different seeds at 10,000 scenarios)
+  - scatter_test100.py (scatterplot of runtime for different seeds at 10,000 scenarios)
   
 
 ## Production planning problem extension
