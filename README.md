@@ -6,7 +6,9 @@ The following scripts contain the extensive model and the CVaR optimization Algo
   - pp_CB_alg1.py
   - pp_extensive.py
 
-Note that both Algorithm 1 and the extenisve model formulation has been tested in a for loop, and one need to decide to loop over different seeds or different instance sizes. 
+Note that both Algorithm 1 and the extenisve model formulation has been tested in a for loop, and one need to decide to loop over different seeds or different instance sizes. When tested on 15  randomly selected seeds, the 15 seeds are
+$$seeds = [74, 857, 163, 838, 93, 51, 653, 61, 268, 136, 907, 67, 645, 475, 21]$$
+
 
 ### Plots
 The following scripts has been used for plotting results
