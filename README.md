@@ -23,9 +23,14 @@ The following scripts has been used for plotting results
 ## Production planning problem - Variant 2
 
 Note that both Algorithm 2 and the extenisve model formulation has been tested in a for loop, and one need to decide to loop over different seeds or different instance sizes. When tested on 10  randomly selected seeds, the 10 seeds are
-$$seeds = [27, 761, 32, 308, 489, 119, 50, 264, 885,1]$$
+
+[27, 761, 32, 308, 489, 119, 50, 264, 885,1]
+
 When tested on 5 different seeds these were: 
-$$seeds = [27, 761, 32, 308,1]$$
-ANd two different seeds: 
-$$seeds = [32,1]$$
+
+[27, 761, 32, 308,1]
+
+And two different seeds: 
+
+[32,1]
 
