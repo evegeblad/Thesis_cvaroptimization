@@ -2,7 +2,7 @@
 The repository contains the different scripts used for my thesis in operations research in the topic CVaR optmization. 
 
 ## Production planning problem - Variant 1
-The following scripts contain the extensive model and the CVaR optimization Algorithm for the production planning problem 
+The following scripts contain the extensive model and the CVaR optimization Algorithm for the production planning problem Variant 1
   - pp_CB_alg1.py
   - pp_extensive.py
 
@@ -21,6 +21,10 @@ The following scripts has been used for plotting results
 
   
 ## Production planning problem - Variant 2
+The following scripts contain the extensive model and the CVaR optimization Algorithm for the production planning problem Variant 2
+  - Alg2_variant2.py
+  - extensive_variant2.py
+
 
 Note that both Algorithm 2 and the extenisve model formulation has been tested in a for loop, and one need to decide to loop over different seeds or different instance sizes. When tested on 10  randomly selected seeds, the 10 seeds are
 
